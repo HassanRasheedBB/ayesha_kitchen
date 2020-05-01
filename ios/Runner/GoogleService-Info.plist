@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>51411945549-q0mcnvs27uqb0a8d5c3pj7n667bi54ge.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.51411945549-q0mcnvs27uqb0a8d5c3pj7n667bi54ge</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>51411945549-eglag1jvj17fqm7r1rv3h03vbdviggci.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTv7WU-E5xEnN01WEj6KFLfpElF89vTxc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>51411945549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ayeshakitchen</string>
+	<key>PROJECT_ID</key>
+	<string>ayesha-kitchen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ayesha-kitchen.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:51411945549:ios:b2c73e64657ba002467404</string>
+	<key>DATABASE_URL</key>
+	<string>https://ayesha-kitchen.firebaseio.com</string>
+</dict>
+</plist>

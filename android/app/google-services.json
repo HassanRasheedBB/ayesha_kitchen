@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51411945549",
+    "firebase_url": "https://ayesha-kitchen.firebaseio.com",
+    "project_id": "ayesha-kitchen",
+    "storage_bucket": "ayesha-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51411945549:android:ad8577d42cf1cbbf467404",
+        "android_client_info": {
+          "package_name": "com.ayeshakitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51411945549-eglag1jvj17fqm7r1rv3h03vbdviggci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayeshakitchen",
+            "certificate_hash": "2e3fa6998ada80951fea4242af002c44e62996c5"
+          }
+        },
+        {
+          "client_id": "51411945549-7873f1pjag67ht6r6rnskf90ou943sia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxp-Md2Gdc2s0aYSFEnyfpSfxXciL5gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51411945549-7873f1pjag67ht6r6rnskf90ou943sia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
